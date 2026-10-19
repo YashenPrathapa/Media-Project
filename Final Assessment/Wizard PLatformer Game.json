@@ -687,6 +687,16 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "Sound Effects/Wizard Game Background Music.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sound Effects/Wizard Game Background Music.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ]
   },
@@ -697,19 +707,19 @@
   "objectsGroups": [],
   "variables": [
     {
-      "name": "GameSettings",
-      "persistentUuid": "90230a02-f839-4f7e-9cc3-294f5a68d0e8",
+      "name": "GlobalSettings",
+      "persistentUuid": "3a4fb7db-63e0-40f6-88c2-2546f6aabed8",
       "type": "structure",
       "children": [
         {
-          "name": "GameMusic",
-          "persistentUuid": "5f9eafb1-dabd-4dd7-bcb2-f18a6d843f78",
+          "name": "Music",
+          "persistentUuid": "ccb95156-fddd-4f56-bf19-7c1d338925f6",
           "type": "number",
           "value": 0
         },
         {
-          "name": "GameSound",
-          "persistentUuid": "89653392-0d7f-46e8-b596-8dfb2042b5b4",
+          "name": "Sound",
+          "persistentUuid": "fd58d1a2-3047-47ee-9d9d-e300b0da80f0",
           "type": "number",
           "value": 0
         }
@@ -1685,6 +1695,182 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "adbb5f46-dca8-4c34-944e-6330322ff010",
+          "width": 0,
+          "x": 48,
+          "y": 208,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "c87a1a44-53fc-44da-a0ed-9f188fe09c37",
+          "width": 0,
+          "x": 96,
+          "y": 208,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "8ecde1bd-6415-470b-801f-afa6aab55199",
+          "width": 0,
+          "x": 144,
+          "y": 208,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "3bf675ce-ea25-4b15-8794-7b19846b88bc",
+          "width": 0,
+          "x": 192,
+          "y": 208,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "c05f9d04-88d1-4006-bf03-e4cf0a811ac9",
+          "width": 0,
+          "x": 240,
+          "y": 208,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "24170af0-ea8b-479c-86a6-bfb73090d264",
+          "width": 0,
+          "x": 288,
+          "y": 208,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "49f18fb7-64db-494d-8617-87845df26b52",
+          "width": 0,
+          "x": 320,
+          "y": 256,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "52c6c0be-c8bf-4a23-8e5a-fe0da7a54511",
+          "width": 0,
+          "x": 352,
+          "y": 256,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "86ea2f03-0a07-443c-bab2-0a2d0b3c52b7",
+          "width": 0,
+          "x": 416,
+          "y": 256,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "a0e85002-63bd-4aca-a81f-baabc6749c60",
+          "width": 0,
+          "x": 464,
+          "y": 256,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Orbs",
+          "persistentUuid": "05711f4f-271f-4e2a-8f38-85f042891e42",
+          "width": 0,
+          "x": 512,
+          "y": 256,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2537,7 +2723,7 @@
               "Width": 154,
               "Height": 0,
               "Clockwise": true,
-              "HorizontalEdgeDuration": 3,
+              "HorizontalEdgeDuration": 5,
               "VerticalEdgeDuration": 0,
               "Left": 0,
               "Top": 0,
@@ -3385,9 +3571,21 @@
                   },
                   "parameters": [
                     "",
-                    "Sound Effects/universfield-magic-spell-278824.mp3",
+                    "Sound Effects/Whizz Sound Effect.mp3",
                     "",
-                    "70",
+                    "GlobalSettings.Sound + 50",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound Effects/Wizard Game Background Music.mp3",
+                    "yes",
+                    "GlobalSettings.Music + 50",
                     ""
                   ]
                 }
@@ -3439,7 +3637,7 @@
                     "",
                     "coin.wav",
                     "",
-                    "50",
+                    "GlobalSettings.Sound + 30",
                     ""
                   ]
                 }
@@ -3492,18 +3690,6 @@
                     "\"Untitled scene\"",
                     ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "Sound Effects/Whizz Sound Effect.mp3",
-                    "",
-                    "50",
-                    ""
-                  ]
                 }
               ]
             },
@@ -3540,18 +3726,6 @@
                   "parameters": [
                     "",
                     "\"Untitled scene\"",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "Sound Effects/Whizz Sound Effect.mp3",
-                    "",
-                    "50",
                     ""
                   ]
                 }
@@ -3753,18 +3927,6 @@
                     "\"Main Menu\"",
                     ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "Sound Effects/Whizz Sound Effect.mp3",
-                    "",
-                    "50",
-                    ""
-                  ]
                 }
               ]
             }
@@ -3895,15 +4057,15 @@
       ]
     },
     {
-      "b": 218,
+      "b": 241,
       "disableInputWhenNotFocused": true,
       "mangledName": "Main_32Menu",
       "name": "Main Menu",
-      "r": 186,
+      "r": 212,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 95,
+      "v": 130,
       "uiSettings": {
         "grid": true,
         "gridType": "rectangular",
@@ -3916,7 +4078,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.2550455473354341,
+        "zoomFactor": 0.2636457673770807,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -4111,16 +4273,17 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
           "keepRatio": true,
           "layer": "",
-          "name": "Starting_Scene_Sound_Effect",
-          "persistentUuid": "a168125b-08fc-449e-8599-16d2acaeba27",
-          "width": 0,
-          "x": 321,
-          "y": 880,
-          "zOrder": 6,
+          "name": "CreditsMarker",
+          "persistentUuid": "61788ba2-25ed-406d-b29d-0e4038183dcc",
+          "width": 1280,
+          "x": 0,
+          "y": 864,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4129,63 +4292,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 32,
-          "keepRatio": true,
-          "layer": "",
-          "name": "CreditsMarker",
-          "persistentUuid": "61788ba2-25ed-406d-b29d-0e4038183dcc",
-          "width": 1312,
-          "x": 0,
-          "y": 768,
-          "zOrder": 15,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Intro_Sound",
-          "persistentUuid": "921c558a-19a6-433e-ba75-1119c402ab83",
-          "width": 0,
-          "x": 486,
-          "y": 1024,
-          "zOrder": 16,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "height": 80,
           "keepRatio": true,
           "layer": "",
           "name": "Whizz_Sound_Effect",
           "persistentUuid": "ba2006fa-eb0e-4e0a-8e5f-a415a8358b31",
-          "width": 0,
+          "width": 476,
           "x": 420,
-          "y": 1152,
+          "y": 1280,
           "zOrder": 18,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Sound_Effect_Database",
-          "persistentUuid": "79d53437-b4b8-48e8-8e33-21adeea8056d",
-          "width": 0,
-          "x": 352,
-          "y": 1320,
-          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4202,6 +4317,71 @@
           "x": 1952,
           "y": 192,
           "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Back",
+          "persistentUuid": "4c8b2660-b284-4396-a86e-d0dd41e34cb1",
+          "width": 0,
+          "x": 560,
+          "y": 1496,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Gametime_Backgroud_Music",
+          "persistentUuid": "18dca477-105c-41db-9ebf-2bc645f13ed0",
+          "width": 0,
+          "x": 252,
+          "y": 1072,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Sound_Effect_Database",
+          "persistentUuid": "0301e24d-39ef-48cf-ae23-b51d4f80ff0d",
+          "width": 618,
+          "x": 352,
+          "y": 1412,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Background_Music_Credits",
+          "persistentUuid": "1533a0c1-b299-4b61-a0bb-2b6ca11a9ae3",
+          "width": 0,
+          "x": 421,
+          "y": 1188,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4469,7 +4649,7 @@
             "opacity": 255,
             "scale": 4,
             "fontSize": 20,
-            "tint": "0;0;0",
+            "tint": "255;142;0",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
             "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
             "align": "left",
@@ -4596,7 +4776,7 @@
             "opacity": 255,
             "scale": 4,
             "fontSize": 20,
-            "tint": "248;231;28",
+            "tint": "250;235;60",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
             "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
             "align": "left",
@@ -4633,10 +4813,10 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16,
+                        "y": 16
                       },
                       "customCollisionMask": [
                         [
@@ -4689,7 +4869,7 @@
             "opacity": 255,
             "scale": 3,
             "fontSize": 20,
-            "tint": "0;0;0",
+            "tint": "255;255;255",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
             "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
             "align": "left",
@@ -4751,7 +4931,7 @@
             "opacity": 255,
             "scale": 3,
             "fontSize": 20,
-            "tint": "0;0;0",
+            "tint": "7;103;182",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
             "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
             "align": "left",
@@ -4788,6 +4968,68 @@
             "align": "left",
             "verticalTextAlignment": "top"
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Gametime_Backgroud_Music",
+          "persistentUuid": "fef1cacf-bdc3-4d74-b3a8-1dddb52c3ade",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            }
+          ],
+          "content": {
+            "text": "Game Background Music",
+            "opacity": 255,
+            "scale": 4,
+            "fontSize": 20,
+            "tint": "0;0;0",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "verticalTextAlignment": "top"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Background_Music_Credits",
+          "persistentUuid": "37d3e959-47b5-48f8-828e-d561be862552",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            }
+          ],
+          "content": {
+            "text": "DRFX (Freesound)",
+            "opacity": 255,
+            "scale": 3,
+            "fontSize": 20,
+            "tint": "8;113;168",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "verticalTextAlignment": "top"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -4815,6 +5057,9 @@
             "objectName": "Whizz_Sound_Effect"
           },
           {
+            "objectName": "Gametime_Backgroud_Music"
+          },
+          {
             "objectName": "MusicVolume"
           },
           {
@@ -4822,6 +5067,9 @@
           },
           {
             "objectName": "Sound_Effect_Database"
+          },
+          {
+            "objectName": "Background_Music_Credits"
           },
           {
             "objectName": "Back"
@@ -4905,7 +5153,7 @@
                 "value": "SetNumberVariable"
               },
               "parameters": [
-                "GameSettings.GameSound",
+                "GlobalSettings.Sound",
                 "=",
                 "SoundSlider.Value()"
               ]
@@ -4931,7 +5179,7 @@
                 "value": "SetNumberVariable"
               },
               "parameters": [
-                "GameSettings.GameMusic",
+                "GlobalSettings.Music",
                 "=",
                 "MusicSlider.Value()"
               ]
@@ -4988,7 +5236,7 @@
                 "",
                 "\"CameraMove\"",
                 "CreditsMarker.CenterX()",
-                "CreditsMarker.CenterY()",
+                "CreditsMarker.CenterY() + (ScreenHeight()/2)",
                 "",
                 "\"easeInOutQuad\"",
                 "1"
@@ -5075,7 +5323,7 @@
                 "",
                 "\"CameraMove\"",
                 "Marker.CenterX()",
-                "CameraCenterY()",
+                "Marker.CenterY() + (ScreenHeight()/2)",
                 "",
                 "\"easeInOutQuad\"",
                 "1"
