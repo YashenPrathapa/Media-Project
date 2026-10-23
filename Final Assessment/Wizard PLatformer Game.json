@@ -1105,6 +1105,70 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/745d66ba7c8f3d13a227d58616258c6d3185b13409a7bf7b9d278e87324df844_Gun 3.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/Spikes out 8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Spikes out 8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Spikes out 7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Spikes out 7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Spikes out 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Spikes out 6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Spikes out 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Spikes out 5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Spikes out 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Spikes out 4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Spikes out 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Spikes out 3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Spikes out 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Spikes out 2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Spikes out 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Spikes out 1.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -1157,7 +1221,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.6455105703311526,
+        "zoomFactor": 0.3925161175488266,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -4202,7 +4266,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "Spikes Out.",
+              "name": "Spikes Out",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -4211,7 +4275,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Spikes out 1.png",
+                      "image": "assets/Spikes out 1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4247,7 +4311,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Spikes out 2.png",
+                      "image": "assets/Spikes out 2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4283,7 +4347,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Spikes out 3.png",
+                      "image": "assets/Spikes out 3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4319,7 +4383,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Spikes out 4.png",
+                      "image": "assets/Spikes out 4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4355,7 +4419,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Spikes out 5.png",
+                      "image": "assets/Spikes out 5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4391,7 +4455,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Spikes out 6.png",
+                      "image": "assets/Spikes out 6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4427,7 +4491,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Spikes out 7.png",
+                      "image": "assets/Spikes out 7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4463,7 +4527,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Spikes out 8.png",
+                      "image": "assets/Spikes out 8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4515,7 +4579,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Left/Right Arrow Keys: Move Left or Right\n\nSpacebar: Jump",
+          "string": "Left/Right Arrow Keys: Move Forward or Backward\n\nSpacebar: Jump",
           "font": "a8c7c959ab7f3dbb0fcf98d5355fb8839186d33f3c9d7203ef20450fa5a72091_JotiOne-Regular.ttf",
           "textAlignment": "left",
           "characterSize": 20,
@@ -4538,7 +4602,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Left/Right Arrow Keys: Move Left or Right\n\nSpacebar: Jump",
+            "text": "Left/Right Arrow Keys: Move Forward or Backward\n\nSpacebar: Jump",
             "font": "a8c7c959ab7f3dbb0fcf98d5355fb8839186d33f3c9d7203ef20450fa5a72091_JotiOne-Regular.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -4563,312 +4627,12 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "timeBetweenFrames": 0.025,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Trophy_Idle.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 64
-                          },
-                          {
-                            "x": 9,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Pressed",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.125,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Trophy_Pressed_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 64
-                          },
-                          {
-                            "x": 9,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Trophy_Pressed_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 64
-                          },
-                          {
-                            "x": 9,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Trophy_Pressed_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 64
-                          },
-                          {
-                            "x": 9,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Trophy_Pressed_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 64
-                          },
-                          {
-                            "x": 9,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Trophy_Pressed_5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 64
-                          },
-                          {
-                            "x": 9,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Trophy_Pressed_6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 64
-                          },
-                          {
-                            "x": 9,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Trophy_Pressed_7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 20
-                          },
-                          {
-                            "x": 55,
-                            "y": 64
-                          },
-                          {
-                            "x": 9,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Trophy_Pressed_8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
