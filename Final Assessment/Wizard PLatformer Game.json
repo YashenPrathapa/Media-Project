@@ -944,6 +944,167 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/FreePD/Epic Dramatic/2239596a02122cd0df070479f353ce4d9dad272ea4c4c85ca11864362b3d09f6_Emotional Blockbuster 2.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/JotiOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "a8c7c959ab7f3dbb0fcf98d5355fb8839186d33f3c9d7203ef20450fa5a72091_JotiOne-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/a8c7c959ab7f3dbb0fcf98d5355fb8839186d33f3c9d7203ef20450fa5a72091_JotiOne-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Martini Sunset.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "91df7de22c473be5f69ad3d2ef7e77ddd5dc9d18fe6b5ac5d91129e1fdbfaea7_Martini Sunset.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/FreePD/Jazz/91df7de22c473be5f69ad3d2ef7e77ddd5dc9d18fe6b5ac5d91129e1fdbfaea7_Martini Sunset.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Chronos.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "eb1a26156713122dd5e35472a754b9be0eed78a86601a544bb2c94bd1091275c_Chronos.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/FreePD/Electronic/eb1a26156713122dd5e35472a754b9be0eed78a86601a544bb2c94bd1091275c_Chronos.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Trophy_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trophy_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoint/210269c05dbd0f77c102edae234bc9b136fa43b1e4b7837145d463e9f7d96646_Trophy_Idle.png",
+          "name": "Trophy_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Trophy_Pressed_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trophy_Pressed_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoint/e5535f87ec94bbd5675a85c21b5326222b6a98716376affde9be37dccab66df7_Trophy_Pressed_1.png",
+          "name": "Trophy_Pressed_1.png"
+        }
+      },
+      {
+        "file": "assets/Trophy_Pressed_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trophy_Pressed_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoint/e5535f87ec94bbd5675a85c21b5326222b6a98716376affde9be37dccab66df7_Trophy_Pressed_2.png",
+          "name": "Trophy_Pressed_2.png"
+        }
+      },
+      {
+        "file": "assets/Trophy_Pressed_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trophy_Pressed_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoint/e5535f87ec94bbd5675a85c21b5326222b6a98716376affde9be37dccab66df7_Trophy_Pressed_3.png",
+          "name": "Trophy_Pressed_3.png"
+        }
+      },
+      {
+        "file": "assets/Trophy_Pressed_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trophy_Pressed_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoint/488dc86910ab0eab2e0297381864563a189bb636b5c17ea661d0377d6f113a40_Trophy_Pressed_4.png",
+          "name": "Trophy_Pressed_4.png"
+        }
+      },
+      {
+        "file": "assets/Trophy_Pressed_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trophy_Pressed_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoint/210269c05dbd0f77c102edae234bc9b136fa43b1e4b7837145d463e9f7d96646_Trophy_Pressed_5.png",
+          "name": "Trophy_Pressed_5.png"
+        }
+      },
+      {
+        "file": "assets/Trophy_Pressed_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trophy_Pressed_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoint/210269c05dbd0f77c102edae234bc9b136fa43b1e4b7837145d463e9f7d96646_Trophy_Pressed_6.png",
+          "name": "Trophy_Pressed_6.png"
+        }
+      },
+      {
+        "file": "assets/Trophy_Pressed_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trophy_Pressed_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoint/e028bfa643dced611129a9b72b7fe394013952b46a8833947adea351779bf4a3_Trophy_Pressed_7.png",
+          "name": "Trophy_Pressed_7.png"
+        }
+      },
+      {
+        "file": "assets/Trophy_Pressed_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trophy_Pressed_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoint/e028bfa643dced611129a9b72b7fe394013952b46a8833947adea351779bf4a3_Trophy_Pressed_8.png",
+          "name": "Trophy_Pressed_8.png"
+        }
+      },
+      {
+        "file": "assets/Gun 3.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "745d66ba7c8f3d13a227d58616258c6d3185b13409a7bf7b9d278e87324df844_Gun 3.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/745d66ba7c8f3d13a227d58616258c6d3185b13409a7bf7b9d278e87324df844_Gun 3.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ]
   },
@@ -996,7 +1157,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.78762901016738,
+        "zoomFactor": 0.6455105703311526,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1889,7 +2050,7 @@
           "width": 720,
           "x": -440,
           "y": 344,
-          "zOrder": 13,
+          "zOrder": -11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1935,22 +2096,6 @@
           "keepRatio": true,
           "layer": "",
           "name": "Orbs",
-          "persistentUuid": "adbb5f46-dca8-4c34-944e-6330322ff010",
-          "width": 0,
-          "x": 15,
-          "y": 218,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orbs",
           "persistentUuid": "3bf675ce-ea25-4b15-8794-7b19846b88bc",
           "width": 0,
           "x": 136,
@@ -1981,22 +2126,6 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "",
-          "name": "Instructions_about_Controls_",
-          "persistentUuid": "a9c1d9ad-3908-4eb3-bf1a-d38ef3c71e6f",
-          "width": 0,
-          "x": 0,
-          "y": 448,
-          "zOrder": 16,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
           "layer": "UI",
           "name": "Orbs_Score",
           "persistentUuid": "29a1757b-c6a7-4cfe-bed9-1e0c59a9c3bd",
@@ -2017,9 +2146,9 @@
           "layer": "",
           "name": "Background1",
           "persistentUuid": "e507d15e-1023-4c23-bf1f-4c55be62232b",
-          "width": 1344,
-          "x": -64,
-          "y": 0,
+          "width": 1488,
+          "x": -208,
+          "y": 2,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -2034,8 +2163,8 @@
           "layer": "",
           "name": "Background2",
           "persistentUuid": "a4af5dc3-c8c9-4bd3-b3a6-33100982107e",
-          "width": 1344,
-          "x": -64,
+          "width": 1488,
+          "x": -208,
           "y": 288,
           "zOrder": -10,
           "numberProperties": [],
@@ -2051,8 +2180,8 @@
           "layer": "",
           "name": "Background3",
           "persistentUuid": "8e7537c6-333b-4fc7-9d7a-2735962a068c",
-          "width": 1344,
-          "x": -64,
+          "width": 1488,
+          "x": -208,
           "y": 223,
           "zOrder": -10,
           "numberProperties": [],
@@ -2068,8 +2197,8 @@
           "layer": "",
           "name": "Background4",
           "persistentUuid": "484ed993-cf59-49ed-9a05-90d60032cb11",
-          "width": 1344,
-          "x": -64,
+          "width": 1488,
+          "x": -208,
           "y": 68,
           "zOrder": -10,
           "numberProperties": [],
@@ -2085,8 +2214,8 @@
           "layer": "",
           "name": "Background5",
           "persistentUuid": "bac16797-d07c-407c-b535-43a579810760",
-          "width": 1344,
-          "x": -64,
+          "width": 1488,
+          "x": -208,
           "y": 653,
           "zOrder": -10,
           "numberProperties": [],
@@ -2102,8 +2231,8 @@
           "layer": "",
           "name": "Background6",
           "persistentUuid": "4a7b8e89-2c9b-431f-8be3-fbe99a8d3d41",
-          "width": 1344,
-          "x": -64,
+          "width": 1488,
+          "x": -208,
           "y": 513,
           "zOrder": -10,
           "numberProperties": [],
@@ -2119,8 +2248,8 @@
           "layer": "",
           "name": "Background7",
           "persistentUuid": "59244767-a1cc-4711-bca9-6e36951ebcda",
-          "width": 1344,
-          "x": -64,
+          "width": 1488,
+          "x": -208,
           "y": 441,
           "zOrder": -10,
           "numberProperties": [],
@@ -2273,6 +2402,40 @@
           "x": 115,
           "y": 549,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Instructions_about_controls",
+          "persistentUuid": "b25d2cf1-ac3b-4dad-92f6-512976b66462",
+          "width": 272,
+          "x": -182,
+          "y": 480,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Trophy",
+          "persistentUuid": "7d0f96ed-b066-4fc5-92a8-12207fbedf84",
+          "width": 32,
+          "x": 16,
+          "y": 208,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3918,26 +4081,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "Instructions_about_Controls_",
-          "persistentUuid": "db1e3798-b867-42b5-b798-c5e32d0a47df",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "Left/Right Arrow Keys: Move Left or Right\n\nSpacebar: Jump",
-            "opacity": 255,
-            "scale": 1,
-            "fontSize": 20,
-            "tint": "91;58;158",
-            "bitmapFontResourceName": "PixelOperator8-Bold.fnt",
-            "textureAtlasResourceName": "",
-            "align": "left",
-            "verticalTextAlignment": "top"
-          }
-        },
-        {
-          "assetStoreId": "",
           "name": "Orbs_Score",
           "persistentUuid": "090e934d-db9e-443f-805c-a01809c0d87b",
           "type": "BitmapText::BitmapTextObject",
@@ -3956,7 +4099,7 @@
             "opacity": 255,
             "scale": 6,
             "fontSize": 20,
-            "tint": "0;0;0",
+            "tint": "0;7;255",
             "bitmapFontResourceName": "PixelOperator8-Bold.fnt",
             "textureAtlasResourceName": "",
             "align": "left",
@@ -4064,7 +4207,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.2,
+                  "timeBetweenFrames": 0.14,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -4359,6 +4502,411 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Instructions_about_controls",
+          "persistentUuid": "6ca7d9b0-be1e-4b35-9dae-87488e474349",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Left/Right Arrow Keys: Move Left or Right\n\nSpacebar: Jump",
+          "font": "a8c7c959ab7f3dbb0fcf98d5355fb8839186d33f3c9d7203ef20450fa5a72091_JotiOne-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Left/Right Arrow Keys: Move Left or Right\n\nSpacebar: Jump",
+            "font": "a8c7c959ab7f3dbb0fcf98d5355fb8839186d33f3c9d7203ef20450fa5a72091_JotiOne-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "34eec54d95bb3dbc9dd5a6700ea8d30dd6c5e40f03643285082a170024444dd6",
+          "name": "Trophy",
+          "persistentUuid": "99d333ec-04e2-4513-94d5-76ea31859400",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Trophy_Idle.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Pressed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Trophy_Pressed_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Trophy_Pressed_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Trophy_Pressed_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Trophy_Pressed_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Trophy_Pressed_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Trophy_Pressed_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Trophy_Pressed_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Trophy_Pressed_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 20
+                          },
+                          {
+                            "x": 55,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4413,13 +4961,16 @@
             "objectName": "Boundary"
           },
           {
-            "objectName": "Instructions_about_Controls_"
+            "objectName": "Instructions_about_controls"
           },
           {
             "objectName": "Orbs_Score"
           },
           {
             "objectName": "Spiked_Turtle_"
+          },
+          {
+            "objectName": "Trophy"
           }
         ]
       },
@@ -4578,17 +5129,50 @@
                   "parameters": [
                     "Orbs_Count",
                     "=",
-                    "35"
+                    "34"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Wizard_Male",
+                    "Trophy",
+                    "",
+                    "",
+                    ""
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Trophy",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "745d66ba7c8f3d13a227d58616258c6d3185b13409a7bf7b9d278e87324df844_Gun 3.aac",
+                    "",
+                    "60",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "3"
+                    "1"
                   ]
                 },
                 {
@@ -5113,15 +5697,15 @@
       ]
     },
     {
-      "b": 39,
+      "b": 107,
       "disableInputWhenNotFocused": true,
       "mangledName": "Main_32Menu",
       "name": "Main Menu",
-      "r": 38,
+      "r": 107,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 37,
+      "v": 107,
       "uiSettings": {
         "grid": true,
         "gridType": "rectangular",
@@ -5134,12 +5718,33 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3325387091250788,
+        "zoomFactor": 0.47893418845352725,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Buttons",
+          "objects": [
+            {
+              "name": "Play"
+            },
+            {
+              "name": "Settings"
+            },
+            {
+              "name": "Quit"
+            },
+            {
+              "name": "Back"
+            },
+            {
+              "name": "Credits"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
         {
@@ -5152,8 +5757,8 @@
           "name": "Title",
           "persistentUuid": "f11f3305-83c8-45c4-b50c-7d11720a8cf7",
           "width": 679,
-          "x": 344,
-          "y": 65,
+          "x": 377,
+          "y": 64,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5169,8 +5774,8 @@
           "name": "Play",
           "persistentUuid": "c05749dd-8aec-43cb-aab7-15864ea1decc",
           "width": 162,
-          "x": 590,
-          "y": 189,
+          "x": 624,
+          "y": 186,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -5186,7 +5791,7 @@
           "name": "Settings",
           "persistentUuid": "9f99afe7-01b8-434d-899e-d57092a3d4f7",
           "width": 293,
-          "x": 521,
+          "x": 557,
           "y": 302,
           "zOrder": 3,
           "numberProperties": [],
@@ -5203,7 +5808,7 @@
           "name": "Quit",
           "persistentUuid": "6b85047f-fba5-4211-b575-5e5be8f33534",
           "width": 152,
-          "x": 579,
+          "x": 624,
           "y": 544,
           "zOrder": 4,
           "numberProperties": [],
@@ -5320,7 +5925,7 @@
           "name": "Credits",
           "persistentUuid": "f5c4e0f2-3361-4849-a0be-9aacf962d593",
           "width": 0,
-          "x": 551,
+          "x": 580,
           "y": 421,
           "zOrder": 14,
           "numberProperties": [],
@@ -5470,7 +6075,20 @@
           "persistentUuid": "9963e71c-61ad-430b-8fc2-cb3f6829493a",
           "type": "BitmapText::BitmapTextObject",
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 2,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "ButtonFSM",
@@ -5501,7 +6119,20 @@
           "persistentUuid": "8ef98c76-c8ee-4803-bc43-e20620b5bd78",
           "type": "BitmapText::BitmapTextObject",
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 2,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "ButtonFSM",
@@ -5532,7 +6163,20 @@
           "persistentUuid": "2dbf919c-a954-4889-9942-a03b7209f16a",
           "type": "BitmapText::BitmapTextObject",
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 2,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "ButtonFSM",
@@ -5687,7 +6331,20 @@
           "persistentUuid": "e66b3797-7b57-4ebd-b68c-bd06eb242c26",
           "type": "BitmapText::BitmapTextObject",
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 2,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "ButtonFSM",
@@ -5814,7 +6471,20 @@
           "persistentUuid": "89c9870a-0137-4f99-a818-663c56f0c6a5",
           "type": "BitmapText::BitmapTextObject",
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 2,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "ButtonFSM",
@@ -6187,31 +6857,17 @@
               "parameters": [
                 "CreditsMarker"
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
               "type": {
-                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+                "value": "PlaySound"
               },
               "parameters": [
-                "SoundSlider",
+                "",
+                "eb1a26156713122dd5e35472a754b9be0eed78a86601a544bb2c94bd1091275c_Chronos.aac",
+                "",
+                "50",
                 ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "GlobalSettings.Sound",
-                "=",
-                "SoundSlider.Value()"
               ]
             }
           ]
@@ -6221,10 +6877,11 @@
           "conditions": [
             {
               "type": {
-                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+                "value": "ButtonStates::ButtonFSM::IsHovered"
               },
               "parameters": [
-                "MusicSlider",
+                "Buttons",
+                "ButtonFSM",
                 ""
               ]
             }
@@ -6232,12 +6889,42 @@
           "actions": [
             {
               "type": {
-                "value": "SetNumberVariable"
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
               },
               "parameters": [
-                "GlobalSettings.Music",
-                "=",
-                "MusicSlider.Value()"
+                "Buttons",
+                "Effect",
+                "\"Effect\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "Buttons",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Buttons",
+                "Effect",
+                "\"Effect\"",
+                "no"
               ]
             }
           ]
@@ -6352,6 +7039,58 @@
                 "",
                 "\"easeInOutQuad\"",
                 "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "SoundSlider",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "GlobalSettings.Sound",
+                "=",
+                "SoundSlider.Value()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "MusicSlider",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "GlobalSettings.Music",
+                "=",
+                "MusicSlider.Value()"
               ]
             }
           ]
@@ -6578,23 +7317,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 235,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Victory",
-          "persistentUuid": "6cb37a2c-afaf-4899-844b-ae2ef99dad9a",
-          "width": 697,
-          "x": 320,
-          "y": -22,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 151,
           "keepRatio": true,
           "layer": "",
@@ -6612,14 +7334,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 301,
+          "height": 235,
           "keepRatio": true,
           "layer": "",
           "name": "NewText",
           "persistentUuid": "1dc0331d-a287-43ff-8295-465b7ed98146",
-          "width": 1085,
-          "x": 123,
-          "y": 187,
+          "width": 984,
+          "x": 183,
+          "y": 254,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -6640,6 +7362,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Victory",
+          "persistentUuid": "46f79b97-d55a-46b0-8388-bea08ab6fd45",
+          "width": 0,
+          "x": 121,
+          "y": 11,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -6655,10 +7393,10 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Victory!",
+          "string": "Congratulations!",
           "font": "e7262cd3e76593f3d9c9c411a3fb89993c9e61fcf50889a383a2309260eae108_FrederickatheGreat-Regular.ttf",
           "textAlignment": "center",
-          "characterSize": 200,
+          "characterSize": 150,
           "color": {
             "b": 0,
             "g": 197,
@@ -6678,11 +7416,11 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Victory!",
+            "text": "Congratulations!",
             "font": "e7262cd3e76593f3d9c9c411a3fb89993c9e61fcf50889a383a2309260eae108_FrederickatheGreat-Regular.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 200,
+            "characterSize": 150,
             "lineHeight": 0,
             "color": "195;197;0"
           }
@@ -6709,7 +7447,20 @@
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 2,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "ButtonFSM",
@@ -6766,7 +7517,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Congratulations!\nYou Successfully Completed Wizard Runner.\n\n",
+          "string": "You Successfully Completed the Wizard Runner.\n\n",
           "font": "4da37be27ea4962f6c793e7a37e056d2a9e2c0cbcb88c782f116346b7bdc04e7_Neonderthaw-Regular.ttf",
           "textAlignment": "center",
           "characterSize": 80,
@@ -6789,7 +7540,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Congratulations!\nYou Successfully Completed Wizard Runner.\n\n",
+            "text": "You Successfully Completed the Wizard Runner.\n\n",
             "font": "4da37be27ea4962f6c793e7a37e056d2a9e2c0cbcb88c782f116346b7bdc04e7_Neonderthaw-Regular.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
@@ -6938,6 +7689,63 @@
               "parameters": [
                 "",
                 "\"Main Menu\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "MainMenu",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "MainMenu",
+                "Effect",
+                "\"Effect\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "MainMenu",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "MainMenu",
+                "Effect",
+                "\"Effect\"",
                 ""
               ]
             }
